@@ -16,3 +16,18 @@ nothing much here it's a simple tool made by forcing the ai to do extra work and
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Bruto-17/psy_scripts_pen.git
+2 Navigate to the Repository Directory:
+    
+    cd psy_scripts_pen
+3 Install Dependencies:Ensure you have Python 3 installed. You can install the required packages using:
+
+    pip install -r requirements.txt
+  
+  UsageRun the Tool:Execute the tool using: 
+   
+    python TOOLS.py
+   
+   Follow the Prompts:The tool will guide you through the available options and prompts for security testing.Example
+   
+    python TOOLS.py
+   
